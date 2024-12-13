@@ -1,1 +1,5 @@
-Alice Johnson,101,18,12th,789 Oak St,9876543210,0
+"roll_number","name","age","grade_level","address","contact"
+1,"Sam",18,"11th","At  post Solapur","8975896989"
+2,"John Doe",20,"12th","123 Main St","1234567890"
+3,"Alice",18,"12th","456 Elm St","9896567890"
+4,"Bob",19,"11th","789 Pine St","9897896541"
